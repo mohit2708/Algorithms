@@ -1,5 +1,13 @@
 # Selection Sort
 
+
+![1](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_1.jpg)
+![2](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_2.jpg)
+![3](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_3.jpg)
+![4](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_4.jpg)
+![5](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_5.jpg)
+![6](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_6.jpg)
+![7](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/selection_sort_7.jpg)
 ```php
 <?php 
 function selection_sort(&$arr, $n)  
