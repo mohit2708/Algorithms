@@ -4,6 +4,7 @@
 ![bubble-sort](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/Bubble-sort.gif)
 
 #### Example-2:
+![2](https://github.com/mohit2708/Algorithms/blob/Sorting-Algorthims/img/bubble-short.png)
 __First Pass:__<br>
 ( __5 1__ 4 2 8 ) –> ( __1 5__ 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 > 1.<br>
 ( 1 __5 4__ 2 8 ) –>  ( 1 __4 5__ 2 8 ), Swap since 5 > 4<br>
