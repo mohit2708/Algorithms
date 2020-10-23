@@ -16,7 +16,7 @@ Second Pass:<br>
 ( 1 2 4 __5 8__ ) –>  ( 1 2 4 __5 8__ )<br>
 Now, the array is already sorted, but our algorithm does not know if it is completed. The algorithm needs one whole pass without any swap to know it is sorted.<br>
 
-Third Pass:
+Third Pass:<br>
 ( __1 2__ 4 5 8 ) –> ( __1 2__ 4 5 8 )<br>
 ( 1 __2 4__ 5 8 ) –> ( 1 __2 4__ 5 8 )<br>
 ( 1 2 __4 5__ 8 ) –> ( 1 2 __4 5__ 8 )<br>
