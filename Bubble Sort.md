@@ -4,10 +4,10 @@
 
 ##### Example:
 __First Pass:__<br>
-( 5 1 4 2 8 ) –> ( 1 5 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 > 1.<br>
-( 1 5 4 2 8 ) –>  ( 1 4 5 2 8 ), Swap since 5 > 4<br>
-( 1 4 5 2 8 ) –>  ( 1 4 2 5 8 ), Swap since 5 > 2<br>
-( 1 4 2 5 8 ) –> ( 1 4 2 5 8 ), Now, since these elements are already in order (8 > 5), algorithm does not swap them.<br>
+( __5 1__ 4 2 8 ) –> ( __1 5__ 4 2 8 ), Here, algorithm compares the first two elements, and swaps since 5 > 1.<br>
+( 1 __5 4__ 2 8 ) –>  ( 1 __4 5__ 2 8 ), Swap since 5 > 4<br>
+( 1 4 __5 2__ 8 ) –>  ( 1 4 __2 5__ 8 ), Swap since 5 > 2<br>
+( 1 4 2 __5 8__ ) –> ( 1 4 2 __5 8__ ), Now, since these elements are already in order (8 > 5), algorithm does not swap them.<br>
 
 Second Pass:<br>
 ( 1 4 2 5 8 ) –> ( 1 4 2 5 8 )<br>
